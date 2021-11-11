@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**mak2506/mak2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, it's me Mansi Kumari :wave:
+> Passionate web developer and creatively creative
+- 🔭 Currently persuing BTECH CS at BBD University
+- 🌱 Learning NodeJs and Mongo
+- 👯 Looking for some collaboration
+- 🤔 Want to offer some work?
+- 💬 Ask me about my favorite language :thinking:
+- 📫 How to reach me: Nice question.. :smile: email me at [mannsi980k@gmail.com](@mannsi980k@gmail.com)
+- 😄 Pronouns: MaK, :shushing_face:	it's a secret
+- :zap:Fun fact is I think a lot :sweat_smile:
