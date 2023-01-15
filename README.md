@@ -1,7 +1,8 @@
 # Hi, it's me Mansi Kumari :wave:
 > Passionate web developer and creatively creative
-- 🔭 Currently persuing BTECH CS at BBD University
-- 🌱 Learning NodeJs and Mongo
+- 🔭 Completed B.Tech CS from BBD University
+- 🌱 Experience in JAVA, NODE, MONGO, SQL, PHP
+- 🏢 Working at CEDCOSS TECHNOLOGIES Pvt. Ltd.
 - 👯 Looking for some collaboration
 - 🤔 Want to offer some work?
 - 💬 Ask me about my favorite language :thinking:
